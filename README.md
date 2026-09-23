@@ -1,2 +1,16 @@
-# akosapp
-Akos is a platform that seamlessly connects users with a diverse network of service providers—from healthcare professionals and dentists to hairdressers and skilled tradespeople like blacksmiths. By bringing multiple services into one place, Akos simplifies discovery, booking, and access to reliable expertise.
+# AKOS Legal Site
+
+Estructura:
+
+- `/index.html` — centro legal
+- `/privacy/index.html` — Aviso de Privacidad Integral
+- `/terms/index.html` — Términos y Condiciones
+
+URLs esperadas:
+- https://emlabs-create.github.io/akosapp/
+- https://emlabs-create.github.io/akosapp/privacy/
+- https://emlabs-create.github.io/akosapp/terms/
+
+Para publicar: sube el contenido a la raíz del repositorio `akosapp.github.io` y activa GitHub Pages desde la rama `main`, carpeta `/ (root)`.
+
+Nota: el Aviso de Privacidad proviene del documento proporcionado. Los Términos son una versión de trabajo construida con la información funcional y legal disponible y los textos aprobados de verificación de identidad y Stripe.
